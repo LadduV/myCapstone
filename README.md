@@ -18,4 +18,6 @@
 5.for getting product details and food details I created a database in Mongodb and used it as api for getting details.
 6.different types of hooks are used for state management and adding functionality.
 
+# PDF files are added in the root directory for the schema and website layout.
+
 
