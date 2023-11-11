@@ -1,6 +1,6 @@
 # This Projecct Was Created With The Following technologies
 1.React
-2.Bootstrap
+2.Tailwind
 3.Nodejs
 4.Firebase
 
@@ -12,7 +12,7 @@
 
 # this project is created by following steps
 1.first created a react app.
-2.then for the styling part I used bootsrap.
+2.then for the styling part I used tailwindcss.
 3.for backend Mongodb and firebase are used for authentication.
 4.for payment integration stripe is used.
 5.for getting product details and food details I created a database in Mongodb and used it as api for getting details.
